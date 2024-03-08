@@ -5,7 +5,7 @@ MAKE SURE YOU ALREADY CREATE A TOKEN AND ISSUE IT FIRST
 fork this repo
 
 ```
-cd afiq
+cd aalifa
 ```
 
 edit the env file
