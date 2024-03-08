@@ -1,11 +1,14 @@
 {
-  "name": "afiq",
+  "name": "Aalifa",
   "version": "1.0.0",
   "description": "Simple bulk transfer using RPC API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kribolista/rpc-push-inery.git"
   },
   "keywords": [],
   "author": "",
