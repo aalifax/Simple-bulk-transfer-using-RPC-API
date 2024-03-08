@@ -1,2 +1,2 @@
-# simple-rpc
-Simple Rpc Call 
+# SIMPLE BULK TRANSFER
+Simple Bulk Transfer using Rpc API
